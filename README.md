@@ -8,7 +8,7 @@ This repository contains basic Python programs created while learning Python fun
 - Input and Output
 - Conditional Statements
 - Loops
-- Functions (upcoming)
+- Functions 
 
 ## Purpose
 To build a strong foundation in Python for Machine Learning and Data Science.
